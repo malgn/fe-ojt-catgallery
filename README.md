@@ -18,6 +18,7 @@
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Using media query](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+- [CodePen](https://codepen.io/) - 프론트엔드 개발자간 코드를 공유하는 플랫폼으로 심심할 때 보면 여러모로 공부가 많이 된다.
 - [Google Fonts](https://fonts.google.com/icons) - 무료 폰트 및 아이콘을 구하기 좋다.
 
 ## 프로젝트 진행
